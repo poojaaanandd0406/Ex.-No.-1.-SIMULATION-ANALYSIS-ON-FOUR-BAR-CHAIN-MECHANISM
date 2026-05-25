@@ -53,10 +53,12 @@
 
 
 ## Output:
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/f45e51f5-ab84-4d4a-86cc-6a325dfe9e04" />
+VAD, IC and SFA module
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/6e7e1ac2-e670-4715-a09e-c64a2125faac" />
 
-
-### Name:
-### Register Number: 
+### Name:Pooja A
+### Register Number: 212225230208
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
